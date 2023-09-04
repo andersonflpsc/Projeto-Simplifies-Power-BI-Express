@@ -1,2 +1,2 @@
-# Simplifica Power 🇧🇮 Express 🔒
-  04 Projetos documentados com análises de dados em Power 🇧🇮
+# Simplifica Power BI Express 🔒
+  04 Projetos documentados com análises de dados em Power BI 📂
