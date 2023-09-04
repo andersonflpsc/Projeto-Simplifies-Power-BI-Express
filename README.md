@@ -1,2 +1,2 @@
-# Simplifica Power BI Express
- 04 Projetos com Dashboards em Power BI + Certificado
+# Simplifica Power BI Express 🔒
+  04 Projetos documentados com análises de dados em Power 🇧🇮
